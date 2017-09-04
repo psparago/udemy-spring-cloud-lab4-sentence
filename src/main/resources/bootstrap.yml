@@ -1,0 +1,6 @@
+# application.yml
+---
+spring:
+  cloud:
+    config:
+      uri: http://localhost:8001
